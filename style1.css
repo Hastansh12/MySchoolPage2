@@ -1,0 +1,34 @@
+*  {border: solid;  
+    border-color: aqua;   }
+    a{font-style: italic;}
+    *{ background-image: url('Images/bkgG.jpg' ) ;}
+    
+    
+    .header{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blue;
+        text-align: center;
+    }
+    
+    .menu{
+        display: flex;
+        flex-wrap: wrap;
+    justify-content: center;
+    
+    }
+    
+    body{
+       
+        width:displayWidth;
+        height:displayHeight;
+        background-color: fuchsia;
+    }
+    
+    .info{
+        color: gold;
+    }
+    .info img{
+       display: flex;
+       justify-content: right;
+      margin-left:1000px ;
+    }
