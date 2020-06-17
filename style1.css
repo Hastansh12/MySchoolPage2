@@ -1,12 +1,12 @@
 *  {border: solid;  
-    border-color: aqua;   }
+    border-color:#00FFFF;   }
     a{font-style: italic;}
     *{ background-image: url('Images/bkgG.jpg' ) ;}
     
     
     .header{
         font-family: Georgia, 'Times New Roman', Times, serif;
-        color: blue;
+        color: #0000FF;
         text-align: center;
     }
     
@@ -21,11 +21,11 @@
        
         width:displayWidth;
         height:displayHeight;
-        background-color: fuchsia;
+        background-color: #FF00FF;
     }
     
     .info{
-        color: gold;
+        color: #FFFA00;
     }
     .info img{
        display: flex;

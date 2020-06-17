@@ -1,12 +1,12 @@
 *  {border: solid;  
-    border-color:purple;   }
+    border-color:#AB00AB;   }
     a{font-style: italic;}
     *{ background-image: url('Images/bkgG.jpg' ) ;}
     
     
     .header{
         font-family: Georgia, 'Times New Roman', Times, serif;
-        color: blue;
+        color: #0000FF;
         text-align: center;
     }
     
@@ -21,11 +21,11 @@
        
         width:displayWidth;
         height:displayHeight;
-        background-color: fuchsia;
+        background-color:#FF00FF;
     }
 
     .info h1{
-        color: red;
+        color: #FF0000;
         display: flex;
         justify-content: space-between;
         margin-left: 500px;
@@ -35,5 +35,5 @@
     }
 
     .info h2{
-        color: darkorange;
+        color: #FFAC00;
     }

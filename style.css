@@ -1,13 +1,13 @@
 
   *  {border: solid;  
-border-color: darkred;   }
+border-color: #FF0000;   }
 a{font-style: italic;}
 *{ background-image: url('Images/bkgG.jpg' ) ;}
 
 
 .header{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: blue;
+    color:#0000FF;
     text-align: center;
 }
 
